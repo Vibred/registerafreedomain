@@ -1,0 +1,14 @@
+{
+    "description": "use for some web tools developed by CF workers",
+    "domain": "is-cool.dev",
+    "subdomain": "tool",
+    "owner": {
+        "email": "red@pissmail.com"
+    },
+
+    "record": {
+        "NS": ["susan.ns.cloudflare.com","greg.ns.cloudflare.com"]
+    },
+
+    "proxied": false
+}
